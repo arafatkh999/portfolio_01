@@ -184,4 +184,13 @@ input{
 .contact a{
     text-decoration: none;
     padding-right: 20px;
-} 
+}
+ /*Copyright section styles  */
+ .copyright{
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 16px;
+ }
+ .fa-copyright{
+    color: #FD6E0A;
+ }
